@@ -1,3 +1,5 @@
+http://go.wuhaolin.cn/, --go 的学习资料
+http://wen.topgoer.com/docs/golang-design-pattern/golang-design-pattern-1cbgha2ltg796， --go的学习资料
 https://github.com/notedit/media-server-go
 https://github.com/pion/ion
 direcf broadcast project:https://github.com/gwuhaolin/livego
