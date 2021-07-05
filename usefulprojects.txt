@@ -18,3 +18,4 @@ https://www.cnblogs.com/fensnote/p/13436470.html, //c/c++开源库，非常有�
 https://github.com/sourcey/libsourcey， //combined with the features of FFmpeg, OpenCV and WebRTC
 https://zhuanlan.zhihu.com/p/87879447, //specs references used in webrtc
 https://gitee.com/zhoutianyou00/webrtc-server，比较有参考价值
+https://github.com/str2num/libice,libice是一个c/c++类库，它实现了RFC5245规范定义的交互式连接建立协议， ice交换建立
