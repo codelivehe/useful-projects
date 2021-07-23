@@ -22,5 +22,5 @@ https://github.com/str2num/libice,libice是一个c/c++类库，它实现了RFC52
 https://github.com/paullouisageneau/libjuice, c/c++实现的p2p ice的很精简的库，不错的库
 https://github.com/nplab/DTLS-Examples, DTLS Examples for OpenSSL
 https://github.com/nplab/DTLS-Examples/tree/master/src
-https://github.com/persmule/libdtlssrtp
+https://github.com/persmule/libdtlssrtp, 实现dtls-strp协议的精简库
 
