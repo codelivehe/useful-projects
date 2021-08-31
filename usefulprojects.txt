@@ -24,3 +24,5 @@ https://github.com/nplab/DTLS-Examples, DTLS Examples for OpenSSL
 https://github.com/nplab/DTLS-Examples/tree/master/src
 https://github.com/persmule/libdtlssrtp, 实现dtls-strp协议的精简库
 https://github.com/jiyeyuran/mediasoup-go
+https://www.jianshu.com/p/5c8d3b40ee2f //ios 屏幕共享，CMSampleBufferRef,从CVImageBufferRef 里面获取yuv数据,转为yuv420(NV12)
+https://blog.csdn.net/weixin_50912862/article/details/115763227, //从CVImageBufferRef 里面获取yuv数据,转为yuv420(NV12)
