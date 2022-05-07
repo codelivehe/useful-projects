@@ -30,4 +30,5 @@ https://www.jianshu.com/p/5c8d3b40ee2f //ios 屏幕共享，CMSampleBufferRef,�
 https://blog.csdn.net/weixin_50912862/article/details/115763227, //从CVImageBufferRef 里面获取yuv数据,转为yuv420(NV12)
 https://github.com/cristeab/ios-cmake, //A toolchain file and examples using cmake for iOS development,可以直接生成xcode工程 
 https://github.com/taka-no-me/android-cmake， //CMake is great, and so is Android. This is a collection of CMake scripts that may be useful to the Android NDK community
-https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c, //webrtc in c/c++
+https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c, //webrtc in c/c++，编译脚步
+https://github.com/aisouard/libwebrtc，//This repository contains a collection of CMake scripts to help you embed Google's native WebRTC
