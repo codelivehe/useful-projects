@@ -34,4 +34,5 @@ https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c, //webrtc i
 https://github.com/aisouard/libwebrtc，//This repository contains a collection of CMake scripts to help you embed Google's native WebRTC
 https://githubmemory.com/repo/alexpiezo/WebRTC,//webrtc 编译
 https://github.com/pristineio/webrtc-build-scripts,//webrtc 编译脚本
+添加webrtc branch分支的方法：打开.git\config,添加fetch = +refs/branch-heads/*:refs/remotes/origin/*
 
