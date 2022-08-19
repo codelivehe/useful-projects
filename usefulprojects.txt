@@ -33,3 +33,5 @@ https://github.com/taka-no-me/android-cmake， //CMake is great, and so is Andro
 https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c, //webrtc in c/c++，编译脚步
 https://github.com/aisouard/libwebrtc，//This repository contains a collection of CMake scripts to help you embed Google's native WebRTC
 https://githubmemory.com/repo/alexpiezo/WebRTC,//webrtc 编译
+https://github.com/pristineio/webrtc-build-scripts,//webrtc 编译脚本
+
